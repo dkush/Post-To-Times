@@ -1,0 +1,9 @@
+Hello.
+
+In this experiment you'll be asked to complete some sentences.
+
+In each trial you'll be presented with part of a sentence.
+
+All you have to do is complete it.
+
+The one trick is that your completions should refer back to the first person in the sentence. 
